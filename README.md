@@ -1,6 +1,6 @@
 # Hello!
 <div align="justify">
-    My name is Michael and I'm a Full-stack web developer and photographer that enjoys using modern languages and frameworks to help companies of all sizes create fast and secure websites. My focus is on fast and efficient back-end code with intuitive user interfaces to assist in the overall user experience.
+    My name is Michael and I'm a Full-stack web developer and photographer that enjoys using modern languages and frameworks to help companies of all sizes create fast and secure websites. My focus is on efficient back-end code with intuitive front-end interfaces to assist in the overall user experience.
 </div>
 <br>
 

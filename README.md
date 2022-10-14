@@ -145,6 +145,7 @@
       />
       <br /><strong>npm</strong>
     </td>
+    
     <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
@@ -154,6 +155,26 @@
       />
       <br /><strong>Jest</strong>
     </td> -->
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-line.svg"
+        width="48"
+        height="48"
+        alt="Raspberry Pi"
+      />
+      <br /><strong>Raspberry Pi</strong>
+    </td>
   </tr>
 </table>
 
